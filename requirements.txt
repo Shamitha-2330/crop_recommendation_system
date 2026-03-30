@@ -1,0 +1,6 @@
+kafka-python==2.0.2
+psycopg2-binary==2.9.7
+requests==2.31.0
+apscheduler==3.10.1
+pytz==2025.7
+pandas==2.2.2

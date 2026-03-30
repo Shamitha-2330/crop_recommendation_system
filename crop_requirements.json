@@ -1,0 +1,22 @@
+{
+  "Wheat": {"temp_ideal":[15,25],"temp_good":[10,30],"humidity_ideal":[40,60],"humidity_good":[30,70],"rainfall_need":20,"wind_tolerance":15},
+  "Rice": {"temp_ideal":[20,35],"temp_good":[18,38],"humidity_ideal":[60,80],"humidity_good":[50,90],"rainfall_need":50,"wind_tolerance":25},
+  "Cotton": {"temp_ideal":[21,30],"temp_good":[18,35],"humidity_ideal":[40,60],"humidity_good":[30,70],"rainfall_need":20,"wind_tolerance":35},
+  "Maize": {"temp_ideal":[18,27],"temp_good":[15,32],"humidity_ideal":[50,70],"humidity_good":[40,80],"rainfall_need":20,"wind_tolerance":25},
+  "Sugarcane": {"temp_ideal":[20,32],"temp_good":[18,35],"humidity_ideal":[60,80],"humidity_good":[50,90],"rainfall_need":50,"wind_tolerance":35},
+  "Groundnut": {"temp_ideal":[25,30],"temp_good":[20,35],"humidity_ideal":[50,70],"humidity_good":[40,80],"rainfall_need":5,"wind_tolerance":15},
+  "Chickpea": {"temp_ideal":[15,25],"temp_good":[10,30],"humidity_ideal":[40,60],"humidity_good":[30,70],"rainfall_need":5,"wind_tolerance":15},
+  "Mustard": {"temp_ideal":[10,25],"temp_good":[8,30],"humidity_ideal":[40,60],"humidity_good":[30,70],"rainfall_need":5,"wind_tolerance":25},
+  "Soybean": {"temp_ideal":[20,30],"temp_good":[18,35],"humidity_ideal":[50,70],"humidity_good":[40,80],"rainfall_need":20,"wind_tolerance":25},
+  "Potato": {"temp_ideal":[15,20],"temp_good":[10,25],"humidity_ideal":[60,80],"humidity_good":[50,90],"rainfall_need":20,"wind_tolerance":15},
+  "Tomato": {"temp_ideal":[18,27],"temp_good":[15,32],"humidity_ideal":[50,70],"humidity_good":[40,80],"rainfall_need":20,"wind_tolerance":15},
+  "Onion": {"temp_ideal":[13,24],"temp_good":[10,30],"humidity_ideal":[50,70],"humidity_good":[40,80],"rainfall_need":5,"wind_tolerance":15},
+  "Red Chilli": {"temp_ideal":[20,30],"temp_good":[18,35],"humidity_ideal":[40,60],"humidity_good":[30,70],"rainfall_need":5,"wind_tolerance":35},
+  "Turmeric": {"temp_ideal":[20,30],"temp_good":[18,35],"humidity_ideal":[70,90],"humidity_good":[60,95],"rainfall_need":50,"wind_tolerance":25},
+  "Banana": {"temp_ideal":[26,30],"temp_good":[20,35],"humidity_ideal":[60,80],"humidity_good":[50,90],"rainfall_need":50,"wind_tolerance":25},
+  "Millet": {"temp_ideal":[20,30],"temp_good":[18,35],"humidity_ideal":[40,60],"humidity_good":[30,70],"rainfall_need":5,"wind_tolerance":35},
+  "Barley": {"temp_ideal":[12,25],"temp_good":[8,30],"humidity_ideal":[40,60],"humidity_good":[30,70],"rainfall_need":20,"wind_tolerance":15},
+  "Sorghum": {"temp_ideal":[20,30],"temp_good":[18,35],"humidity_ideal":[40,60],"humidity_good":[30,70],"rainfall_need":5,"wind_tolerance":35},
+  "Peas": {"temp_ideal":[10,25],"temp_good":[8,30],"humidity_ideal":[50,70],"humidity_good":[40,80],"rainfall_need":20,"wind_tolerance":15},
+  "Carrot": {"temp_ideal":[15,20],"temp_good":[10,25],"humidity_ideal":[50,70],"humidity_good":[40,80],"rainfall_need":15,"wind_tolerance":15}
+}
