@@ -140,6 +140,7 @@ kafka-topics.sh --create --topic weather-current-topic --bootstrap-server localh
 ### 5️⃣ Run Producers
 
 ```bash
+python scheduler.py
 python producer_history.py
 python producer_current.py
 ```
@@ -161,7 +162,6 @@ python recommendation_engine.py
 ```bash
 superset run -p 8088
 ```
-
 ---
 
 ## 📂 Project Structure
@@ -170,10 +170,15 @@ superset run -p 8088
 ├── producer_history.py
 ├── producer_current.py
 ├── consumer.py
+├── scheduler.py
 ├── recommendation_engine.py
 ├── crop_requirements.json
-├── utils/
+├── utils/db_helper.py
+├── utils/kafka_helper.py
+├── data/cities.json
+├── db/schema.sql
 ├── config.py
+├── superset_config.py
 ├── requirements.txt
 └── README.md
 ```
@@ -182,7 +187,11 @@ superset run -p 8088
 
 ## 📸 Screenshots
 
-> Add your dashboard screenshots here (Superset UI)
+<img width="739" height="655" alt="image" src="https://github.com/user-attachments/assets/bd8895f6-6076-4b78-9956-dc652bc63284" />
+
+<img width="739" height="655" alt="image" src="https://github.com/user-attachments/assets/d99c0235-3fb8-4a94-a89b-9bc3e8f6e1ee" />
+
+<img width="739" height="655" alt="image" src="https://github.com/user-attachments/assets/abf515fa-78b4-46fd-b123-8cdb0dc8581b" />
 
 ---
 
